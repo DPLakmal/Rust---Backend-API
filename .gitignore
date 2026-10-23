@@ -1,0 +1,10 @@
+# Target build artifacts
+/target
+
+# Environment files
+.env
+
+# SQLite local databases
+*.db
+*.db-shm
+*.db-wal
